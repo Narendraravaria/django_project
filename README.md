@@ -1,2 +1,2 @@
 # django_project
-Web Development using Django
+Web Development using Django framework
